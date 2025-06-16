@@ -27,6 +27,10 @@ Font ID:      15957
 Directory:    Script/Civitype
 
 This font is Public Domain. Copyright 1991 by S. G. Moye. Additional 
+
+```
+Thanks for visiting...
+```
 characters by Danny Amor. You can copy this font with the readme files only!
 
 ```
